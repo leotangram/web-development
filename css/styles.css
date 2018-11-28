@@ -1,0 +1,31 @@
+/* reglas
+selectores
+declaraciones
+propiedades
+valores */
+
+/* Selector de etiqueta: header - sectio - article - nav */
+/* Selector descendente */
+/* body header div nav ol li a */
+/* Selector de clase . */
+/* .link */
+/* Selector de id # */
+/* #portafolio */
+
+body {
+  font-family: 'Source Sans Pro', sans-serif
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+  /* font-style: italic; */
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.5;
+  letter-spacing: -.2px;
+  /* text-transform: uppercase; */
+  /* text-decoration: dashed */
+}
